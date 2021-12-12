@@ -8,7 +8,7 @@ A webiste that offers fitness training services.
 * CSS
 
 ## Webstie
-https://lernantino.github.io/run-buddy/
+https://khklee.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kelly Hyunkyoung Lee
